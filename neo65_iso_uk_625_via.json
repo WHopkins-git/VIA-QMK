@@ -1,7 +1,7 @@
 {
   "name": "Neo65 Tri-Mode ISO-UK",
-  "vendorId": "0x342D",
-  "productId": "0xDFA0",
+  "vendorId": "0xFEED",
+  "productId": "0x6565",
   "matrix": {
     "rows": 5,
     "cols": 15

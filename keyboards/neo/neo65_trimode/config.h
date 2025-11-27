@@ -4,8 +4,10 @@
 #pragma once
 
 /* USB Device descriptor parameters */
-#define VENDOR_ID       0x342D
-#define PRODUCT_ID      0xDFA0
+/* Note: 0xFEED is QMK community vendor ID */
+/* For VIA: keyboard must be added to VIA approved list */
+#define VENDOR_ID       0xFEED
+#define PRODUCT_ID      0x6565
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Neo
 #define PRODUCT         Neo65 Tri-Mode

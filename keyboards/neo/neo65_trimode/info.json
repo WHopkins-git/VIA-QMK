@@ -4,8 +4,8 @@
     "url": "",
     "maintainer": "neo",
     "usb": {
-        "vid": "0x342D",
-        "pid": "0xDFA0",
+        "vid": "0xFEED",
+        "pid": "0x6565",
         "device_version": "0.0.1"
     },
     "processor": "WB32F3G71",
